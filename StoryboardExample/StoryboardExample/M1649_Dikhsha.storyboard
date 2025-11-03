@@ -24,11 +24,13 @@
             </objects>
             <point key="canvasLocation" x="1064.885496183206" y="130.98591549295776"/>
         </scene>
-        <!--Navigation Controller-->
+        <!--Anushka-->
         <scene sceneID="E2h-UF-r92">
             <objects>
                 <navigationController automaticallyAdjustsScrollViewInsets="NO" id="Nhs-ma-ZGY" sceneMemberID="viewController">
+                    <tabBarItem key="tabBarItem" title="Anushka" image="4.circle" catalog="system" id="x5C-1M-XIK"/>
                     <toolbarItems/>
+                    <simulatedTabBarMetrics key="simulatedBottomBarMetrics"/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="8Sw-55-o8t">
                         <rect key="frame" x="0.0" y="118" width="393" height="54"/>
                         <autoresizingMask key="autoresizingMask"/>
@@ -44,6 +46,7 @@
         </scene>
     </scenes>
     <resources>
+        <image name="4.circle" catalog="system" width="128" height="123"/>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
         </systemColor>
